@@ -42,6 +42,7 @@ Para ejecutar este proyecto, asegúrate de tener instalado:
 
 ## Estructura del Proyecto
 
+```text
 PruebasUnitarias1/
 ├── src/
 │   ├── main/java/      # Código fuente de la aplicación
@@ -49,5 +50,6 @@ PruebasUnitarias1/
 ├── pom.xml             # Configuración de dependencias Maven
 ├── GIT_LOG.md          # Registro de tareas y conflictos Git
 └── README.md           # Documentación del proyecto
+```
 
 ## Imagen de Demostración de Validación Correcta
