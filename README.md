@@ -53,3 +53,5 @@ PruebasUnitarias1/
 ```
 
 ## Imagen de Demostración de Validación Correcta
+
+![Imagen Test Correcto](imagenTestCorrecto.png)
