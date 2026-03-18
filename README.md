@@ -45,11 +45,12 @@ Para ejecutar este proyecto, asegúrate de tener instalado:
 ```text
 PruebasUnitarias1/
 ├── src/
-│   ├── main/java/      # Código fuente de la aplicación
-│   └── test/java/      # Casos de prueba unitaria
-├── pom.xml             # Configuración de dependencias Maven
-├── GIT_LOG.md          # Registro de tareas y conflictos Git
-└── README.md           # Documentación del proyecto
+│   ├── main/java/           # Código fuente de la aplicación
+│   └── test/java/           # Casos de prueba unitaria
+├── pom.xml                  # Configuración de dependencias Maven
+├── GIT_LOG.md               # Registro de tareas y conflictos Git
+├── imagenTestCorrecto.png   # Imagen de demostración de validación correcta
+└── README.md                # Documentación del proyecto
 ```
 
 ## Imagen de Demostración de Validación Correcta
